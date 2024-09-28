@@ -26,3 +26,8 @@ Unique collapse behavior for each reply form to avoid multiple forms opening at 
 For API.
 we created login and register with sanctum token.
 created a basecontroller with success and error function
+
+
+# you can use registeration method for creating user. But if you use my DB there is one user in Database
+emial : admin@gmail.com
+password : 12345678
