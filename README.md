@@ -1,7 +1,13 @@
 # All code is in master branch
-#Attached a sql file for databaase
 
-# clone the project -> checkout into master branch -> update .env file (you can use the sql file attached with the project) -> use composer install -> php artisan serve
+Steps to follow:
+1. clone the project
+2. checkout into master branch
+3. update .env file (you can use the sql file attached with the project)
+4. use composer install
+5. php artisan serve
+
+#Attached a sql file for databaase
 
 User Authentication:
 
