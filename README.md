@@ -1,6 +1,8 @@
 # All code is in master branch
 #Attached a sql file for databaase
 
+# clone the project -> checkout into master branch -> update .env file (you can use the sql file attached with the project) -> use composer install -> php artisan serve
+
 User Authentication:
 
 Users can register, login, and logout.
